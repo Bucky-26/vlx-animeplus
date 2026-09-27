@@ -4,7 +4,7 @@ Anime streaming API and player built with Node.js, Express, Supabase, AniList, a
 
 This project exposes anime metadata and stream endpoints, serves a built-in player UI, and includes a Supabase-backed CORS allowlist and admin panel for managing trusted browser origins.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/your-repo)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Bucky-26/vlx-animeplus)
 
 ## Features
 

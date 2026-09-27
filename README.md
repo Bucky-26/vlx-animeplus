@@ -167,5 +167,6 @@ The app uses `api/index.js` as the entry point for serverless deployment.
 
 ## License
 
-This project is provided as-is for personal and educational use. Add your own license if you plan to distribute it publicly.
+This project is licensed under a custom non-commercial license.
 
+See `LICENSE.md` for full terms, including ownership of project modifications by the developer and prohibition of commercial distribution.
